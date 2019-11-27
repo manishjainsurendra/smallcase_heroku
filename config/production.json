@@ -1,5 +1,5 @@
 {
   "db": {
-    "connection-string": "mongodb://localhost:27017/smallcase_trading"
+    "connection-string": "mongodb+srv://manish:manish@cluster0-u241y.mongodb.net/test?retryWrites=true&w=majority"
   }
 }
